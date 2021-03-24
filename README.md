@@ -1,4 +1,3 @@
-#shirin
 - Hi, I’m @shirin
 
 <!---
